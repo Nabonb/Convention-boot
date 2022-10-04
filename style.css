@@ -1,0 +1,14 @@
+@media only screen and (max-width:554px) {
+     h1{
+        font-size: small;
+    }
+    p{
+        font-size: x-small;
+    }
+    a{
+        padding: 0px;
+    }
+    .carousel-indicators{
+        margin: 0px;
+    }
+}
