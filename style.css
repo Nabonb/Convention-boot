@@ -1,13 +1,27 @@
+
+.container{
+    margin-bottom: 100px;
+}
+.for-margin{
+    margin-bottom:  150px; ;
+}
+.first-sec-margin{
+    margin-bottom: 100px;
+}
+.for-checkbox{
+    margin-bottom: 30px;
+}
+.giv-margin{
+    margin-bottom: 80px;
+}
 @media only screen and (max-width:554px) {
-     h1{
-        font-size: small;
+     .carousel-caption>h1{
+        font-size: xx-small;
     }
-    p{
+    .carousel-caption>p{
         font-size: x-small;
     }
-    a{
-        padding: 0px;
-    }
+    
     .carousel-indicators{
         margin: 0px;
     }
